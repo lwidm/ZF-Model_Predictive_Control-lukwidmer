@@ -2,7 +2,7 @@
 
 ## Lightweight branch
 
-This branch is a lightweight version and does not include the full documentation. Please refer to the [main repository](https://github.com/lwidm/ZF-Latex_Template-lukwidmer) for complete information.
+This branch is a lightweight version and does not include the full documentation. Please refer to the [main repository](https://github.com/lwidm/ZF-Latex_Template-lukwidmer) for more detailed information and complete documention.
 
 Welcome to my LaTeX cheat sheet template!
 Since beginning my mechanical engineering studies in 2020, I've created cheat sheets for many courses in the program. With each new sheet, I've made improvements and updates, all of which are saved in this evolving template.
