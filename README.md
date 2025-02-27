@@ -1,4 +1,6 @@
-# ETH Zürich LaTeX cheat sheet Template
+# Model Predictive Control cheat sheet
+
+A cheet sheet for the Model Predictive Control lecture at ETH Zurich spring semester 2025
 
 ## Lightweight branch
 
